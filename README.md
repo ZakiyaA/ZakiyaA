@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @ZakiyaA
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning wed developnment.
-- 💞️ I’m looking to collaborate on web 
-- 📫 How to reach me zakiyaalfughi@gmail.com
+Full Stack Web Developer with a passion for learning new technologies. I highly focused with a comprehensive knowledge of designing and developing the layout by the ability to use the most popular frameworks.  Excellent organizational skills; attention to detail and enthusiastic about writing clean, maintainable code and working collaboratively in a team environment. Also, having a passion for delivering valuable data through analytical functions and data retrieval methods.
+Reach me on zakiyaalfughi@gmail.com
 
-<!---
-ZakiyaA/ZakiyaA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
